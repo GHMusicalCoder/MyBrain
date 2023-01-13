@@ -1,0 +1,5 @@
+- file manager that gets file information into a DB, and then moves the files based on type (.doc, xls, pdf, etc)
+- ability to rename files
+	- option to remove specific text (or replace with value with option for blank)
+	- option to add a space in front of capital letters
+	- 

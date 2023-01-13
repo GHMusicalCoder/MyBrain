@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CK Entertainment/Music Manager.md",
+                "file": "Projects/Personal Programming/Music Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
+                "file": "Projects/Local Computer Solutions/In House Servers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77bc76e28ed9a115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Local Computer Solutions/Temple Company.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae6b28145a3f774b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Local Computer Solutions/Build T2G Website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5fbebf699b7c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/Music Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aac92caf6099625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/D&D Character Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "733b5ffd9d0c0221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/D&D Character Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9380bbf2bcd02e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/D&D Character Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "584c6da41aeb8b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/Personal Finance App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05ce408c03ea3d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Programming/Web Scrapper for Literotica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c656ee6398cfbb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Local Computer Solutions/Home Storage File Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f87654d8980d32ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CK Entertainment/Lyric Web App.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -134,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
+                "file": "Projects/CK Entertainment/Lyric Web App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
+                "file": "Projects/CK Entertainment/Lyric Web App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md"
+                "file": "Projects/CK Entertainment/Lyric Web App.md"
               }
             }
           }
@@ -195,12 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8094c8de6cae56cf",
+  "active": "f87654d8980d32ab",
   "lastOpenFiles": [
-    "Projects/CK Rentals/Straley A Repairs - Improvements.md",
-    "Projects/Local Computer Solutions/In House Servers.md",
-    "Projects/Local Computer Solutions/Tiddlywiki Start Up Page.md",
-    "Projects/CK Rentals/Straley B Repairs - Improvements.md",
-    "Projects/CK Entertainment/Music Manager.md"
+    "Projects/Local Computer Solutions/Home Storage File Manager.md",
+    "Projects/Personal Programming/Web Scrapper for Literotica.md",
+    "Projects/Personal Programming/Personal Finance App.md",
+    "Projects/Personal Programming/D&D Character Manager.md",
+    "Projects/Personal Programming/Table Manager.md",
+    "Projects/Personal Programming/Die Roller.md",
+    "Projects/Personal Programming/Music Manager.md",
+    "Projects/Untitled.md",
+    "Projects/Local Computer Solutions/Build T2G Website.md",
+    "Projects/Local Computer Solutions/Temple Company.md"
   ]
 }
