@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
+                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
+                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
+                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md"
+                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md"
               }
             }
           }
@@ -197,10 +197,10 @@
   },
   "active": "8094c8de6cae56cf",
   "lastOpenFiles": [
-    "Projects/CK Rentals/Straley B Repairs - Improvements.md",
     "Projects/CK Rentals/Straley A Repairs - Improvements.md",
     "Projects/Local Computer Solutions/In House Servers.md",
     "Projects/Local Computer Solutions/Tiddlywiki Start Up Page.md",
+    "Projects/CK Rentals/Straley B Repairs - Improvements.md",
     "Projects/CK Entertainment/Music Manager.md"
   ]
 }

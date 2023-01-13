@@ -7,3 +7,5 @@
 * wall protectors for door knobs
 * bathroom shower rod
 * shower head
+* map out electric panel
+* 
