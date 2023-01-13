@@ -10,4 +10,5 @@ Build Router
 	- minis forum pc
 	- get 2nd computer upstairs for ripping Movies
 	- get coax cable ethernet
-		
+
+

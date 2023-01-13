@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d19d9af1f99835cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CK Rentals/Straley B Repairs - Improvements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8094c8de6cae56cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Local Computer Solutions/In House Servers.md",
+                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Local Computer Solutions/In House Servers.md",
+                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Local Computer Solutions/In House Servers.md"
+                "file": "Projects/CK Rentals/Straley A Repairs - Improvements.md"
               }
             }
           }
@@ -171,8 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d63a38573efccc",
+  "active": "8094c8de6cae56cf",
   "lastOpenFiles": [
+    "Projects/CK Rentals/Straley B Repairs - Improvements.md",
+    "Projects/CK Rentals/Straley A Repairs - Improvements.md",
     "Projects/Local Computer Solutions/In House Servers.md",
     "Projects/Local Computer Solutions/Tiddlywiki Start Up Page.md",
     "Projects/CK Entertainment/Music Manager.md"
