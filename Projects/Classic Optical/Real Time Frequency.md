@@ -1,0 +1,12 @@
+- Frequency test creator
+	- choose state
+	- choose program
+	- choose 21 and Under, 21 and Over, Under 21, Over 21
+	- choose # of cases to create
+	- choose Eligible or Not Eligible
+	- Testing Exam Date (nothing for today)
+	- ignore x cases
+- RTE Testing Data update
+	- copy up to 5 cases from live to testing
+- stored procedure installer with version control
+- get michigan in testing
