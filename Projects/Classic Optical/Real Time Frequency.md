@@ -1,3 +1,5 @@
+- get michigan in testing
+	- update return query to give prior order ids as well as dates
 - Frequency test creator
 	- choose state
 	- choose program
@@ -9,4 +11,4 @@
 - RTE Testing Data update
 	- copy up to 5 cases from live to testing
 - stored procedure installer with version control
-- get michigan in testing
+- 
