@@ -1,5 +1,5 @@
 - get michigan in testing
-	- update return query to give prior order ids as well as dates
+	- ~~update return query to give prior order ids as well as dates~~
 - Frequency test creator
 	- choose state
 	- choose program
