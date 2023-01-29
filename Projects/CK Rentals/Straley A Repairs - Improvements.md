@@ -1,4 +1,4 @@
-* patio light replacement
+* ~~patio light replacement~~
 * both bedroom blinds
 * master bedroom closet
 * bathroom exhaust fan
